@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- I'm Dat Nguyen 97
+- 🌱 I’m currently learning Blockchain
+- 🤔 I’m looking for help with web3 and more
 <!--
 **BottleLiang/BottleLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
